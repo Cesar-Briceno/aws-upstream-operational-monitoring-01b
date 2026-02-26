@@ -31,7 +31,7 @@ Sentar base para monitoreo remoto escalable
 
 - ARQUITECTURA DEL SISTEMA
 
- ![Arquitectura del Sistema](architecture/architecture-01b-upstream-operational-alerts.png.drawio (1)) 
+![Arquitectura del Sistema](architecture/architecture-diagram.png)
 
 Flujo del sistema:
 
