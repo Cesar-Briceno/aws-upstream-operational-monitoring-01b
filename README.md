@@ -1,3 +1,5 @@
+![Foto de César Briceño](Ing.%20César%20Briceño.png)
+
 # AWS Upstream Operational Monitoring - 01B
 
 ## - DESCRIPCIÓN DEL PROYECTO
