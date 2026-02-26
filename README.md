@@ -85,6 +85,15 @@ Ejemplo real de alerta generada:
 "max_threshold": "35"
 }
 
+## -EVIDENCIA DE EJECUCIÓN REAL
+
+Las siguientes capturas muestran la ejecución automática del sistema cada 5 minutos mediante EventBridge, la persistencia de anomalías en DynamoDB y la recepción de alertas en tiempo real vía SNS.
+
+- 📧 Alertas SNS → /evidence/sns
+- 🗄 Eventos en DynamoDB → /evidence/dynamodb
+- 📊 Logs de Lambda → /evidence/lambda
+- ⏱ Programación EventBridge → /evidence/eventbridge
+
 ## - POSIBLES EVOLUCIONES
 
 El sistema puede evolucionar hacia:
