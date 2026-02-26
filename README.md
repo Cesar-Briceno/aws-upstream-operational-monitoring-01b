@@ -19,7 +19,7 @@ En operaciones upstream, variables como:
     → Preión de la Línea - Standpipe Pressure
     → Densidad del Lodo - Mud Density
 
-pueden indicar fallas operacionales si salen de rangos normales.
+pueden indicar desviaciones operacionales si se encuentran fuera de los rangos normales o configurados..
 
 En muchos entornos tradicionales, el monitoreo depende de revisión manual o sistemas poco integrados.
 
