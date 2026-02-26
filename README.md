@@ -1,5 +1,12 @@
 ![Foto de César Briceño](Ing.%20César%20Briceño.png)
 
+## Perfil Profesional
+
+Ingeniero de Petróleo con experiencia en operaciones upstream.  
+AWS Certified Cloud Practitioner con interés en la aplicación de tecnologías cloud para optimizar procesos operacionales en el sector energético.
+
+Este repositorio documenta el desarrollo de un sistema de monitoreo operacional serverless como parte de la construcción de un portafolio técnico aplicado a Oil & Gas.
+
 # AWS Upstream Operational Monitoring - 01B
 
 ## - DESCRIPCIÓN DEL PROYECTO
