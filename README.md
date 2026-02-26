@@ -31,6 +31,8 @@ Sentar base para monitoreo remoto escalable
 
 - ARQUITECTURA DEL SISTEMA
 
+ ![Arquitectura del Sistema](architecture/architecture-01b-upstream-operational-alerts.png.drawio (1)) 
+
 Flujo del sistema:
 
 EventBridge
