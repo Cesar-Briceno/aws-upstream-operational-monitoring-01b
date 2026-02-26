@@ -108,13 +108,7 @@ Integración con modelos predictivos basados en IA
 
 Ingeniero de Petróleo con experiencia en operaciones upstream y gestión corporativa en entornos operacionales críticos.
 Actualmente AWS Certified Cloud Practitioner, desarrollando un perfil híbrido que integra conocimiento profundo de procesos operativos reales con competencias en cloud computing e inteligencia artificial.
-Interesado en la intersección entre energía y tecnología, con foco en:
-
-    * Digitalización de procesos operativos
-    * Monitoreo remoto escalable
-    * Trazabilidad documental
-    * Control de no conformidades
-    *Automatización de reporting ejecutivo
+Interesado en la intersección entre energía y tecnología.
 
 Este proyecto forma parte del desarrollo práctico de soluciones cloud aplicadas a problemáticas reales del sector energético.
 
