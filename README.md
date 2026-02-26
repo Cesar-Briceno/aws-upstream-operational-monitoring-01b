@@ -12,10 +12,10 @@ Este proyecto fue desarrollado como ejercicio práctico dentro del alcance de la
 
 En operaciones upstream, variables como:
 
-    * ROP (Rate of Penetration)
-    * Torque
-    * Standpipe Pressure
-    * Mud Density
+    - Rata de Prenetración - ROP (Rate of Penetration)
+    - Torque
+    - Preión de la Línea - Standpipe Pressure
+    - Densidad del Lodo - Mud Density
 
 pueden indicar fallas operacionales si salen de rangos normales.
 
