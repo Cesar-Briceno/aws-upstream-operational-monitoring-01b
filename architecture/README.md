@@ -1,1 +1,1 @@
-Aquí se incluirá el diagrama de arquitectura del sistema.
+Se adjunta imagen del Diagrama de la Arquitectura del Sistema
