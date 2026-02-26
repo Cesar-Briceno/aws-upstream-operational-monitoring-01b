@@ -13,11 +13,8 @@ Este proyecto fue desarrollado como ejercicio práctico dentro del alcance de la
 En operaciones upstream, variables como:
 
     → Rata de Prenetración - ROP (Rate of Penetration)
-    
     → Torque
-    
     → Preión de la Línea - Standpipe Pressure
-    
     → Densidad del Lodo - Mud Density
 
 pueden indicar fallas operacionales si salen de rangos normales.
@@ -66,11 +63,11 @@ AWS IAM
 
 ## - CARACTERISTICAS TÉCNICAS
 
-Comparación dinámica contra umbrales almacenados en base de datos
-Registro persistente de anomalías
-Generación automática de eventos de alerta
-Arquitectura basada en eventos (event-driven)
-Diseño modular y extensible
+Comparación dinámica contra umbrales almacenados en base de datos.
+Registro persistente de anomalías.
+Generación automática de eventos de alerta.
+Arquitectura basada en eventos (event-driven).
+Diseño modular y extensible.
 
 ## - EJEMPLO DE EVENTO DETECTADO
   
