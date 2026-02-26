@@ -1,6 +1,6 @@
-AWS Upstream Operational Monitoring - 01B
+# AWS Upstream Operational Monitoring - 01B
 
-- DESCRIPCIÓN DEL PROYECTO
+## - DESCRIPCIÓN DEL PROYECTO
 
 Sistema serverless de monitoreo operacional upstream desarrollado en AWS para detectar anomalías en variables críticas de perforación y generar alertas automáticas en tiempo real.
 
@@ -8,7 +8,7 @@ El sistema analiza datos operacionales simulados y los compara contra umbrales c
 
 Este proyecto fue desarrollado como ejercicio práctico dentro del alcance de la certificación AWS Certified Cloud Practitioner, con enfoque aplicado al sector energético.
 
-- PROBLEMA QUE RESUELVE
+## - PROBLEMA QUE RESUELVE
 
 En operaciones upstream, variables como:
 
@@ -29,7 +29,7 @@ Generar alertas en tiempo real
 Desacoplar procesamiento y notificación
 Sentar base para monitoreo remoto escalable
 
-- ARQUITECTURA DEL SISTEMA
+## - ARQUITECTURA DEL SISTEMA
 
 ![Arquitectura del Sistema](architecture/architecture-diagram.png)
 
@@ -53,7 +53,7 @@ Bajo costo operativo
 Configuración dinámica
 Observabilidad mediante logs
 
-- SERVICIOS DE AWS UTILIZADOS
+## - SERVICIOS DE AWS UTILIZADOS
  
 AWS Lambda
 Amazon DynamoDB
@@ -61,7 +61,7 @@ Amazon SNS
 Amazon EventBridge
 AWS IAM
 
-- CARACTERISTICAS TÉCNICAS
+## - CARACTERISTICAS TÉCNICAS
 
 Comparación dinámica contra umbrales almacenados en base de datos
 Registro persistente de anomalías
@@ -69,7 +69,7 @@ Generación automática de eventos de alerta
 Arquitectura basada en eventos (event-driven)
 Diseño modular y extensible
 
-- EJEMPLO DE EVENTO DETECTADO
+## - EJEMPLO DE EVENTO DETECTADO
   
 Ejemplo real de alerta generada:
 
@@ -83,7 +83,7 @@ Ejemplo real de alerta generada:
 "max_threshold": "35"
 }
 
-- POSIBLES EVOLUCIONES
+## - POSIBLES EVOLUCIONES
 
 El sistema puede evolucionar hacia:
 
@@ -94,7 +94,7 @@ Integración con sistemas SCADA
 Arquitectura multi-activo (múltiples pozos o rigs)
 Integración con modelos predictivos basados en IA
 
-- ESTRUCTURA DEL REPOSITORIO
+## - ESTRUCTURA DEL REPOSITORIO
 
 /lambda → Función principal de detección de anomalías
 
@@ -102,7 +102,7 @@ Integración con modelos predictivos basados en IA
 
 /evidence → Evidencias de ejecución
 
-- CONTEXTO PROFESIONAL
+## - CONTEXTO PROFESIONAL
 
 Ingeniero de Petróleo con experiencia en operaciones upstream y gestión corporativa en entornos operacionales críticos.
 Actualmente AWS Certified Cloud Practitioner, desarrollando un perfil híbrido que integra conocimiento profundo de procesos operativos reales con competencias en cloud computing e inteligencia artificial.
@@ -116,7 +116,7 @@ Interesado en la intersección entre energía y tecnología, con foco en:
 
 Este proyecto forma parte del desarrollo práctico de soluciones cloud aplicadas a problemáticas reales del sector energético.
 
-- USO DE HERRAMIENTAS DE ASISTENCIA
+## - USO DE HERRAMIENTAS DE ASISTENCIA
 
 El diseño de la arquitectura y la estructuración del código fueron desarrollados como ejercicio práctico de arquitectura serverless en AWS.
 Durante el proceso se utilizó asistencia de modelos de lenguaje (LLMs) como herramienta de apoyo para:
