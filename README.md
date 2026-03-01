@@ -42,8 +42,7 @@ Sentar base para monitoreo remoto escalable
 
 Flujo del sistema:
 
-EventBridge
-
+    → EventBridge
     → AWS Lambda
     → DynamoDB (tabla de umbrales)
     → DynamoDB (tabla de eventos)
